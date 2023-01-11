@@ -1,4 +1,4 @@
-# Fintech Domains Research
+# Fintech Domain Research
 ![Image](https://www.centralbanking.com/sites/default/files/styles/landscape_750_463/public/article_copied_files/neural-network.jpg?itok=Q3rrAkHM)
 
 # THE EMERGENCE OF PROJECT JASPER: THE FUTURE OF MONEY AND PAYMENTS 
